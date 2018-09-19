@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=data\ team
+comment0.target=int[]\ getMove(Piece[][],\ int)
+comment1.params=data\ a\ b
+comment1.target=int[]\ getNextJump(Piece[][],\ int,\ int)
+numComments=2

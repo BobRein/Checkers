@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=t\ k
+comment0.target=Piece(int,\ boolean)
+comment1.params=
+comment1.target=boolean\ getKing()
+comment10.params=data\ a\ b\ c\ d\ e\ player
+comment10.target=void\ executeMove(Piece[][],\ int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getTeam()
+comment3.params=data
+comment3.target=int\ countpiecesLeft1(Piece[][])
+comment4.params=data
+comment4.target=int\ countpiecesLeft2(Piece[][])
+comment5.params=j
+comment5.target=void\ crown(boolean)
+comment6.params=data
+comment6.target=void\ crownAnyKings(Piece[][])
+comment7.params=data\ a\ b\ c\ d
+comment7.target=int\ moveType(Piece[][],\ int,\ int,\ int,\ int)
+comment8.params=data
+comment8.target=void\ printBoard(Piece[][])
+comment9.params=data
+comment9.target=int[]\ humanCord(Piece[][])
+numComments=11
